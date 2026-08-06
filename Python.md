@@ -145,7 +145,7 @@ A python variable name starts with
 - underscore followed by zero or more letter
 - underscore followed by digits (0-9)
 
-Pythn is case sensitive
+Python is case sensitive
 
 In Python, Class names start with uppercase letter, while all other identifiers can start with lowercase letter
 Starting an identifier with a one leading underscore "\_" indicates indentifier is private
